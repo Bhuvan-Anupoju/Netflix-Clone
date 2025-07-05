@@ -35,7 +35,7 @@
 ![Get Started Page Screenshot](https://github.com/user-attachments/assets/ba449606-91c9-4230-a4bf-c10c380e46a4)
 
 - FAQ Page
-![FAQ Page Screenshot](https://github.com/user-attachments/assets/7a2405c4-34e2-4e97-ad46-162b367456c5)
+![FAQ Page Screenshor](https://github.com/user-attachments/assets/bba9e959-1fc2-4699-b24f-0d238bc4b220)
 
 - Contact  Page
 ![Contact Page Screenshot](https://github.com/user-attachments/assets/c8d2fc64-7585-4162-ae8d-033731a556fe)
@@ -46,3 +46,6 @@ Hi, I'm Bhuvan, a passionate web developer with a strong foundation in HTML, CSS
 ## 🔗 Contact me on
 - [LinkedIn](https://www.linkedin.com/in/bhuvan-anupoju/)
 - [My Portfolio](https://bhuvan-anupoju.github.io/Bhuvan.dev/)
+
+
+
