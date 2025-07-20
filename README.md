@@ -21,7 +21,7 @@
 - Hover effects on thumbnails
 
 - Navigation bar with logo and menu items
-- ## Screenshots of the Website
+## Screenshots of the Website
 - Home Page
 ![Home Page Screenshot](https://github.com/user-attachments/assets/2503470f-61c8-439a-9ba1-8c2c1ee4e85c)
 
